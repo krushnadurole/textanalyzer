@@ -1,4 +1,5 @@
-{"homepage": "https://krushnadurole.github.io/Resume-builder-web-proj/word counter git/",
+{
+  "homepage": "https://krushnadurole.github.io/text-analyzer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
