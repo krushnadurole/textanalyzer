@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 export default function Textform(props) {
     const upper_case = () => {
         // console.log("uppercase function clicked. "+text)
